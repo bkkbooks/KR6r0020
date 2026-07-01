@@ -1,0 +1,605 @@
+canonical_identifier: bkk:krp/KR6r0020/v1
+canonical_location: https://kanripo.org/bkk/KR6r0020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋氏通鑑
+  identifiers:
+    alt_id:
+    - X76n1516
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X76/X76n1516.xml
+    old_id: X76n1516
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0020_000.yaml, hash: 'sha256:04f81e5234c1891b0c6c1939706ef5cec8a52c8fa3958caea391cd8ae62c7a94'}
+  - {seq: 1, filename: KR6r0020_001.yaml, hash: 'sha256:35ee6a6ed6be8ef38983fe4c2fa5db4233f9a05f6afd80a10850da555615181f'}
+  - {seq: 2, filename: KR6r0020_002.yaml, hash: 'sha256:173d0e776d9dcbe7ade300655c349287a46e187512b9fc04859dd73811ba8593'}
+  - {seq: 3, filename: KR6r0020_003.yaml, hash: 'sha256:b997218a2aebe91382e60eac8af943b17b75f991e3c6b07cf9ba27638f32d3a1'}
+  - {seq: 4, filename: KR6r0020_004.yaml, hash: 'sha256:7197af01e34017af73cf6685dfe03a61d0319390fdf2bdbbd271fd4316e2334e'}
+  - {seq: 5, filename: KR6r0020_005.yaml, hash: 'sha256:3d4516981410fa66f61a938439a543d81d8c80031139e1c87d23b8bf27d1af88'}
+  - {seq: 6, filename: KR6r0020_006.yaml, hash: 'sha256:eed12bae49c1a2dbfa42dead966e7c5e030e6edcbbfcecb059f93c6328bc2819'}
+  - {seq: 7, filename: KR6r0020_007.yaml, hash: 'sha256:1ec778b942e25276c2273304606a30d24364d466d456bc5ba271e23eab99462d'}
+  - {seq: 8, filename: KR6r0020_008.yaml, hash: 'sha256:faf4c59553a8bfbec357759fbd26e5f0f4d0ff35cce2ba20feace6d1ec686d48'}
+  - {seq: 9, filename: KR6r0020_009.yaml, hash: 'sha256:72f387ff4b55eae32969e04f980901eaa87380e0c7b4b4609ba3e4c4d40032bd'}
+  - {seq: 10, filename: KR6r0020_010.yaml, hash: 'sha256:d9bd7cfb789f88c5a559e22e4b6df7932fcdd385e0898842f27b751e3dbdc303'}
+  - {seq: 11, filename: KR6r0020_011.yaml, hash: 'sha256:7ab0af889ca02aa48be25533669e39668235cd0bd2f39c6a3cb8069fe3fe3164'}
+  - {seq: 12, filename: KR6r0020_012.yaml, hash: 'sha256:252927fae6a99b61d63fcde1a612062853a2b82928ef9b70a048136e89dcb601'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0020_000.markers.yaml, hash: 'sha256:341bf69c1387d7ac5ab2f6cd5017f6d404caef4a59ff3b15dfd840d010cdc36a'}
+  - {seq: 1, role: markers, filename: assets/KR6r0020_001.markers.yaml, hash: 'sha256:ea59565f661788420155f00401431766a2144cbe90268d37c74c37802efcc4fa'}
+  - {seq: 2, role: markers, filename: assets/KR6r0020_002.markers.yaml, hash: 'sha256:8391eb257b947b36e020d709e156b744697837ac95efd079088af8a5de5626e1'}
+  - {seq: 3, role: markers, filename: assets/KR6r0020_003.markers.yaml, hash: 'sha256:c70970dfbd4668af268b2f6dae9a94ba19cf31632f8bb80570492d5b1f704f8d'}
+  - {seq: 4, role: markers, filename: assets/KR6r0020_004.markers.yaml, hash: 'sha256:c030ae8e306f94307241fd8bc17c73e369a8c3f0fee3ed3a874de35d6051d125'}
+  - {seq: 5, role: markers, filename: assets/KR6r0020_005.markers.yaml, hash: 'sha256:1372d6eec89d51de36fcc483636bb51c727a91e3b7ad26bf02d5a01d430f7fbf'}
+  - {seq: 6, role: markers, filename: assets/KR6r0020_006.markers.yaml, hash: 'sha256:7ad5f8d1c1bc97d3a47c8debbc9652ce828f1d93a1711f0df319d3f4ac52cb6c'}
+  - {seq: 7, role: markers, filename: assets/KR6r0020_007.markers.yaml, hash: 'sha256:efe280a5fdd119e46ba976c4b220ee820d0ecc3963b28958dc6401f08f2d76d8'}
+  - {seq: 8, role: markers, filename: assets/KR6r0020_008.markers.yaml, hash: 'sha256:49d46ea02502a6179852c3a12449d2139c0269ffeef1a0f1badb44f1563658b1'}
+  - {seq: 9, role: markers, filename: assets/KR6r0020_009.markers.yaml, hash: 'sha256:32115056210beb1201d042bba9a0151fd17da2a45002fa8a73b1dc68cd7b35aa'}
+  - {seq: 10, role: markers, filename: assets/KR6r0020_010.markers.yaml, hash: 'sha256:6b5ef1f7200c3543905b06fc99b7937ff891510f70bc895958dd1bb5d152f1bc'}
+  - {seq: 11, role: markers, filename: assets/KR6r0020_011.markers.yaml, hash: 'sha256:bc86bad86d08cd29902145c06e92731bda5b2e674a994723894e231bc8c1d3dd'}
+  - {seq: 12, role: markers, filename: assets/KR6r0020_012.markers.yaml, hash: 'sha256:085c803355d96cbdf45af6759cbb8050f30534af4ad6b1cd9e0c354a1c75fe40'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0020_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1516-A 釋氏通鑑序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0020_X_000-mulu-2
+    span:
+    - front
+    - 342
+    - 342
+  label: No. 1516-B 釋氏通鑑序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0020_X_000-mulu-3
+    span:
+    - front
+    - 754
+    - 754
+  label: No. 1516-C 釋氏通鑑序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0020_X_000-mulu-4
+    span:
+    - front
+    - 1310
+    - 1310
+  label: 歷代編年釋氏通鑑採摭經傳錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0020_X_000-mulu-5
+    span:
+    - front
+    - 1744
+    - 1744
+  label: 歷代編年釋氏通鑑目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0020_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7282
+  label: 歷代編年釋氏通鑑卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0020_X_001-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 周
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0020_X_001-mulu-2
+    span:
+    - body
+    - 5316
+    - 5316
+  label: 秦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0020_X_001-mulu-3
+    span:
+    - body
+    - 5761
+    - 5761
+  label: 西漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0020_X_001-mulu-4
+    span:
+    - body
+    - 7147
+    - 7147
+  label: 後漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0020_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7208
+  label: 歷代編年釋氏通鑑卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0020_X_002-mulu-1
+    span:
+    - body
+    - 3398
+    - 3398
+  label: 三國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0020_X_002-mulu-2
+    span:
+    - body
+    - 4779
+    - 4779
+  label: 西晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0020_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15153
+  label: 歷代編年釋氏通鑑卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0020_X_003-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 東晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0020_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 17471
+  label: 歷代編年釋氏通鑑卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0020_X_004-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 南北朝
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0020_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 16170
+  label: 歷代編年釋氏通鑑卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0020_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 20921
+  label: 歷代編年釋氏通鑑卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0020_X_006-mulu-1
+    span:
+    - body
+    - 7396
+    - 7396
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0020_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 15532
+  label: 歷代編年釋氏通鑑卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0020_X_007-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0020_X_007-mulu-2
+    span:
+    - body
+    - 41
+    - 41
+  label: 高祖神堯太武皇帝(淵)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0020_X_007-mulu-3
+    span:
+    - body
+    - 4871
+    - 4871
+  label: 太宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0020_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 12322
+  label: 歷代編年釋氏通鑑卷之八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0020_X_008-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 高宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0020_X_008-mulu-2
+    span:
+    - body
+    - 8072
+    - 8072
+  label: 則天皇后
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0020_X_008-mulu-3
+    span:
+    - body
+    - 9727
+    - 9727
+  label: 中宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0020_X_008-mulu-4
+    span:
+    - body
+    - 11471
+    - 11471
+  label: 睿宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0020_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 12353
+  label: 歷代編年釋氏通鑑卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0020_X_009-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 元宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0020_X_009-mulu-2
+    span:
+    - body
+    - 5882
+    - 5882
+  label: 肅宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0020_X_009-mulu-3
+    span:
+    - body
+    - 7252
+    - 7252
+  label: 代宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0020_X_009-mulu-4
+    span:
+    - body
+    - 10152
+    - 10152
+  label: 德宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 13424
+  label: 歷代編年釋氏通鑑卷之十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 德宗(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-mulu-2
+    span:
+    - body
+    - 1769
+    - 1769
+  label: 順帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-mulu-3
+    span:
+    - body
+    - 2546
+    - 2546
+  label: 憲宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-mulu-4
+    span:
+    - body
+    - 9698
+    - 9698
+  label: 穆宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-mulu-5
+    span:
+    - body
+    - 10634
+    - 10634
+  label: 敬宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0020_X_010-mulu-6
+    span:
+    - body
+    - 11068
+    - 11068
+  label: 文宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 15678
+  label: 歷代編年釋氏通鑑卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 武宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-mulu-2
+    span:
+    - body
+    - 943
+    - 943
+  label: 宣宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-mulu-3
+    span:
+    - body
+    - 5381
+    - 5381
+  label: 懿宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-mulu-4
+    span:
+    - body
+    - 8777
+    - 8777
+  label: 僖宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-mulu-5
+    span:
+    - body
+    - 12022
+    - 12022
+  label: 昭宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0020_X_011-mulu-6
+    span:
+    - body
+    - 15128
+    - 15128
+  label: 哀帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 7852
+  label: 歷代編年釋氏通鑑卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 五代
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-mulu-2
+    span:
+    - body
+    - 22
+    - 22
+  label: 後梁
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-mulu-3
+    span:
+    - body
+    - 2153
+    - 2153
+  label: 後唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-mulu-4
+    span:
+    - body
+    - 4361
+    - 4361
+  label: 後晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-mulu-5
+    span:
+    - body
+    - 5740
+    - 5740
+  label: 後漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0020_X_012-mulu-6
+    span:
+    - body
+    - 6486
+    - 6486
+  label: 後周
+  type: mulu
+  level: 1
+hash: sha256:9da108f0138058fd510fc426c688435b20d7418f39217daeece2a178b2cbe9be
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
