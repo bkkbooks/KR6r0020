@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0020_000-X.yaml, hash: 'sha256:b67e2674a55c2aad9705474d7c68c6b49a73af4342f59656bf10400fa51e49d3'}
+  - {seq: 0, filename: KR6r0020_000-X.yaml, hash: 'sha256:896988039380cc1527cd7096d22cce71b8ff8da56a326b235a3bff0da14b8183'}
   - {seq: 1, filename: KR6r0020_001-X.yaml, hash: 'sha256:808d97d8a979eeacf7bc1ec596a5aa77912f46a764c205d5a89a28c8f876c380'}
   - {seq: 2, filename: KR6r0020_002-X.yaml, hash: 'sha256:e8a8435094ba75089b582ff33062e60f9f8e2815e1856ec96c357ea045e497c9'}
   - {seq: 3, filename: KR6r0020_003-X.yaml, hash: 'sha256:42cdc9acebd2007839ea434683a267f204e9fca1605bae73f50569f61b647ef6'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 11, filename: KR6r0020_011-X.yaml, hash: 'sha256:b71222d4ed067d65d484967a16b61ac82d398d703f8fa06ef8a05fbb47f7f5b3'}
   - {seq: 12, filename: KR6r0020_012-X.yaml, hash: 'sha256:d19a1801402d7508caa4559c9475d40b8bb8461730f24f0f7ed0fd1be87b7e76'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0020_000-X.markers.yaml, hash: 'sha256:db0609752bb6117a18639cbf7a5f42eb927d40d9419ef122ec77e66f6e3b8905'}
+  - {seq: 0, role: markers, filename: assets/KR6r0020_000-X.markers.yaml, hash: 'sha256:50e2944c029973cbba735c75109b6036220c74e7267b8ddefa20ee5f76789331'}
   - {seq: 1, role: markers, filename: assets/KR6r0020_001-X.markers.yaml, hash: 'sha256:4d4d6fc251fd2e7bce33e8fe263229792942e8f46976de69c238921319eafe3b'}
   - {seq: 2, role: markers, filename: assets/KR6r0020_002-X.markers.yaml, hash: 'sha256:24cf7e5374357ea7a24b8bd238d7ffb59a2dca1ba16b02f461153e846def2f3b'}
   - {seq: 3, role: markers, filename: assets/KR6r0020_003-X.markers.yaml, hash: 'sha256:ebe662813eea5c2ec44c1c285aa36a9c7c98dcbd9640f755dc8780f808491ed0'}
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0020_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1516-A 釋氏通鑑序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0020_X_000-mulu-2
     span:
-    - front
+    - body
     - 342
     - 342
   label: No. 1516-B 釋氏通鑑序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0020_X_000-mulu-3
     span:
-    - front
+    - body
     - 754
     - 754
   label: No. 1516-C 釋氏通鑑序
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0020_X_000-mulu-4
     span:
-    - front
+    - body
     - 1310
     - 1310
   label: 歷代編年釋氏通鑑採摭經傳錄
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0020_X_000-mulu-5
     span:
-    - front
+    - body
     - 1744
     - 1744
   label: 歷代編年釋氏通鑑目錄
@@ -597,4 +597,4 @@ table_of_contents:
   label: 後周
   type: mulu
   level: 1
-hash: sha256:861c65b41e37dea7829fcc80dbc8607c78399600ba2819fad4818378b76f0bd5
+hash: sha256:6c2eb36a6081e9bbefbdb9a7df2659d84775937897f0f04d8acabe3bd55ef5a6
